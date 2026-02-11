@@ -36,7 +36,7 @@
 
 ## Principais fatores (ML)  
 
-![](tables/fatores_ml.png)  
+![](tables/fatores_ml3.png)  
 
 ---  
 
