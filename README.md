@@ -32,7 +32,13 @@
 ![](images/Nov.png)
 ![](images/Dez.png)
 
+---
 
+## Principais fatores (ML)
+
+![](tables/fatores_ml.png)
+
+---
 ---
 
 *Modelos utilizados: Machine Learning e Regressão Linear.*
