@@ -32,11 +32,6 @@
 ![](images/Nov.png)
 ![](images/Dez.png)
 
----
-
-## Principais fatores (ML)
-
-![](tables/fatores_ml.png)
 
 ---
 
